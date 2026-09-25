@@ -1,0 +1,3 @@
+CurvSpec includes code derived from HLFormer, GMMFormer, GMMFormerV2,
+MERU, Geoopt, and the BERT Adam optimizer implementation. Their respective
+copyright and license notices remain applicable.
